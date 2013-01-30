@@ -8,5 +8,14 @@ background-repeat: repeat;
 
 h1
 {
-color: red; font-size: 60px; text-align: right;
+font-size: 40px;
+
+background-color: white;
+width:210px;
+padding:5px;
+border:5px solid black;
+margin:10px;
+position: absolute;
+right:15px;
+bottom:15px;
 }
